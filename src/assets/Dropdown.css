@@ -1,0 +1,15 @@
+.drop-down{
+    width:150px;
+    height:50px;
+    border: none;
+    outline: none;
+    text-align: center;
+    background-color:#207398;
+    color:whitesmoke;   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2rem;
+    cursor: pointer;
+}   
